@@ -1,4 +1,4 @@
-# Challege de un encriptador de texto.
+# Challenge de un encriptador de texto.
 Hola mi nombre es Luis Serrano y este es mi repositorio en el cuál se encuentra mi challenge resuelto de un encriptador de texto
 puedes pobrarlo clonando mi repositorio y disfrutando de el.
 
